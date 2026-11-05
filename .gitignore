@@ -1,0 +1,5 @@
+# test-report (generated)
+test-report.testreport
+.test-results.xml
+.env
+node_modules/
